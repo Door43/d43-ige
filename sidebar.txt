@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ige:home|Door43 (ige)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ige|d43-ige repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ige/archive/master.zip|d43-ige.zip]]
+
+**Recent Changes**
+{{changes>ns = ige}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ige|Ethnologue data]]
+
